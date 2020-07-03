@@ -1,0 +1,22 @@
+body{
+		background-image: url(./img/mario.png);
+		background-repeat: no-repeat;
+		background-position: right bottom;
+		background-attachment: fixed;
+	}
+
+
+	#head{
+		background-image: url('https://st4.depositphotos.com/3792779/21382/i/1600/depositphotos_213823914-stock-photo-abstract-oil-painting-background-oil.jpg');
+		height: 200px;
+		background-size: cover;
+	}
+
+	#head h1{
+		color: white;
+	}
+
+	.body{
+		width: 250px;
+		float: left;
+	}
